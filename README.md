@@ -22,6 +22,11 @@ https://github.com/bbbbbr/megaduck_cartridge_shell
 
 TODO: Make cart shell specicially meant for this adapter
 
+# Riser Height
+The design has been built with **11mm risers** which provides enough clearance to plug in a some [GB Interceptor](https://github.com/bbbbbr/megaduck-interceptor) builds.
+
+Riser heights down to **3.5mm - 4mm** should work and would result in a much smaller gap between the cart and the back of the console.
+
 # License
 Per the LICENSE file this design is released into the public domain and no attribution is required.
 
