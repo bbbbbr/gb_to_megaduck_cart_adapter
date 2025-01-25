@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "gameboy_cartridge_mountingpin")(type "KiCad")(uri "${KIPRJMOD}/gameboy_cartridge_mountingpin.kicad_sym")(options "")(descr ""))
+)
