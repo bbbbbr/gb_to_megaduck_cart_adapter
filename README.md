@@ -33,6 +33,12 @@ Per the LICENSE file this design is released into the public domain and no attri
 # Credits & Thanks
 Thanks to Sean Riddle, Nitro2k, TexElec (pcb design)
 
+# Alternate Top Board for Game Boy Camera
+A different top board that allows using a regular Game Boy Camera Shell (modified ROM still required) is also available.
+It changes the orientation so the Game Boy cart connector is facing UP.
+
+The design is by Raphaël Boichot: https://github.com/Raphael-Boichot/Megaduck-to-game-boy-camera-adapter
+
 # Pix
 ![MegaDuck Adapter pcb front](/pix/megaduck-front.jpg)
 ![MegaDuck Adapter pcb rear](/pix/megaduck-rear.jpg)
